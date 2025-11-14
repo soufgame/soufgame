@@ -10,18 +10,16 @@
 
 ## 💡 About Me
 
-Étudiant ingénieur en développement informatique basé à **Rabat, Maroc**, passionné par :
+Ingénieur en développement informatique passionné par :
 
-* 🌐 **Développement Web moderne** (Spring Boot, React.js, APIs performantes)
-* 📱 **Développement Mobile** (Android – Java, apps fonctionnelles et optimisées)
-* 🔐 **Cybersécurité** : audit sécurité, pentest basique, bonnes pratiques OWASP
-* 🖧 **Réseaux Informatiques** : configuration Cisco, routage, VLAN, firewalls, VPN
-* ⚙️ **Architecture logicielle & optimisation**
-* ☁️ **Cloud & DevOps** : Azure, CI/CD, automatisation basique
+* 🌐 **Développement Web moderne** (Spring Boot, React.js)
+* 📱 **Applications mobiles** (Android – Java)
+* 🖧 **Réseaux informatiques & Infrastructure** (Cisco, TCP/IP, routage, VLAN, VPN, pare-feu)
+* 🔐 **Sécurité informatique & Hardening** (audit, analyse de risques, sécurité applicative)
+* ☁️ **Cloud Computing** (Azure)
+* 🤖 **Automatisation & Outils DevOps** (GitHub Actions, CI/CD basique)
 
-🎯 Mon objectif est de créer des solutions fiables, rapides et sécurisées. Toujours motivé par l’apprentissage continu.
-
-🔍 Actuellement à la recherche d'un **stage de fin d’études (PFE)** à partir du **1er février 2026**.
+Actuellement en dernière année d’ingénierie, je recherche un **stage PFE** à partir du **1er février 2026**, orienté développement, cloud ou sécurité.
 
 ---
 
@@ -31,27 +29,31 @@
 
 ### 💻 Backend
 
-`Java` · `Spring Boot` · `JEE` · `PHP (Laravel)` · `.NET` · `Node.js (basics)`
+`Java` · `Spring Boot` · `JEE` · `Laravel` · `.NET`
 
 ### 🌐 Frontend
 
-`React.js` · `JavaScript` · `TailwindCSS` · `HTML5` · `CSS3`
-
-### 🖧 Réseaux Informatiques
-
-`Cisco Packet Tracer` · `Routage & Switching` · `VLAN` · `VPN` · `Pare-feu` · `Windows Server` · `DHCP / DNS`
+`React.js` · `JavaScript` · `HTML5` · `CSS3`
 
 ### 🗄️ Bases de Données
 
 `MySQL` · `PostgreSQL` · `SQL Server` · `Oracle`
 
-### 🔐 Sécurité & Cloud
+### 🖧 Réseaux Informatiques
 
-`Azure` · `Pentest basique` · `OWASP` · `Audit Sécurité` · `Hardening`
+`Cisco Packet Tracer` · `Routage` · `VLAN` · `Switching` · `VPN` · `Firewall` · `Windows Server`
 
-### 🛠️ Outils & Méthodologies
+### 🔐 Sécurité Informatique
 
-`Git/GitHub` · `IntelliJ` · `VS Code` · `Visual Studio` · `Agile/Scrum`
+`Audit` · `Analyse statique/dynamique` · `Sécurité applicative` · `Tests basiques de vulnérabilité`
+
+### ☁️ Cloud & DevOps
+
+`Azure` · `CI/CD (GitHub Actions)`
+
+### 🛠️ Outils
+
+`Git/GitHub` · `IntelliJ` · `VS Code` · `Visual Studio`
 
 </div>
 
